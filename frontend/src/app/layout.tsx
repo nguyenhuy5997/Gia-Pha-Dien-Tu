@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Gia phả dòng họ Lê Vũ Công Thần',
-  description: 'Gia phả dòng họ Lê Vũ Công Thần — Quản lý gia phả & kết nối cộng đồng dòng họ',
+  title: 'Gia phả dòng họ Lê Huy',
+  description: 'Gia phả dòng họ Lê Huy — Quản lý gia phả & kết nối cộng đồng dòng họ',
 };
 
 export default function RootLayout({
